@@ -1,0 +1,17 @@
+.cedulas{
+/* 	position: fixed; */
+	/*padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;*/
+	width: 400px;
+	min-height: 100px;
+}
+
+.datos{
+	position: static;
+	height: 500px;
+}
+
+a{
+	position: relative;
+}
